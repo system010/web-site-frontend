@@ -1,6 +1,8 @@
+import { logDOM } from '@testing-library/react'
 import React, { useState } from 'react'
 import { AiOutlineMenu, AiOutlineClose } from 'react-icons/ai'
 import { BsFillCartFill } from 'react-icons/bs'
+
 
 import './Header.css'
 
@@ -10,7 +12,7 @@ const Header = () => {
     return (
         <div className='header' >
             <div className='container '>
-                <h1 className='text' style={{ marginLeft: '.5rem', color: 'white' }}><span className='red' style={{ color: '#40a50c' }}>V</span>amos</h1>
+                <img className='logo' src='logo.png' alt='' style={{ width: '25%' }} />
                 <ul className={click ? 'contain active' : 'contain'}>
                     <li className='items'>
                         <a href='/'>الصفحه الرئيسيه</a>
