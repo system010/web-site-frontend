@@ -24,7 +24,7 @@ const Header = () => {
                     </li>
                     <li className='items'>
                         <a href='/'>
-                            عن Vamos
+                            About Vamos
                         </a>
                     </li>
                     <li className='items'>
