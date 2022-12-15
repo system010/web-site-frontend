@@ -12,23 +12,28 @@ const Header = () => {
     return (
         <div className='header' >
             <div className='container '>
-                <img className='logo' src='logo.png' alt='' style={{ width: '25%' }} />
+                <img className='logo' src='logo.png' alt='' width='230' height='230' />
+
                 <ul className={click ? 'contain active' : 'contain'}>
                     <li className='items'>
-                        <a href='/'>الصفحه الرئيسيه</a>
+                        <a className='btn' href='/'>تسجيل الدخول</a>
                     </li>
+                    <li className='itmes'  >
+                        <a href='/'>  <BsFillCartFill className='icon' /> </a>
 
+                    </li>
                     <li className='items'>
                         <a href='/'>
                             عن فاموس
                         </a>
                     </li>
-                    <li className='itmes'  >
-                        <BsFillCartFill className='icon' />
-                    </li>
                     <li className='items'>
-                        <a className='btn' href='/'>تسجيل الدخول</a>
+                        <a href='/'>الصفحه الرئيسيه</a>
                     </li>
+
+
+
+
 
                 </ul>
 
