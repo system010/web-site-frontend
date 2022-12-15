@@ -37,10 +37,10 @@ export const Footer = () => {
                     <div class="col-md-2">
                         <h3> Contact With Vamos</h3>
                         <ul class="list-unstyled ">
-                            <li><a href="https://www.facebook.com/CurvaEgypt/" target="_blank"><i class="fab fa-facebook-f"></i>  Face Book</a></li>
-                            <li><a href="https://twitter.com/CurvaEgypt " target="_blank"><i class="fab fa-twitter"></i> Twitter</a></li>
-                            <li><a href="https://www.instagram.com/curvaegypt/" target="_blank"><i class="fab fa-instagram"></i> Instagram</a></li>
-                            <li><a href="linkedin" target="_blank"><i class="fab fa-linkedin"></i>  LinkedIn</a></li>
+                            <li><a href="https://www.facebook.com/CurvaEgypt/" target="_blank"><i class="fab fa-facebook-f"></i>  FaceBook : Vamos_Store</a></li>
+                            <li><a href="https://twitter.com/CurvaEgypt " target="_blank"><i class="fab fa-twitter"></i> Twitter : Vamos_7</a></li>
+                            <li><a href="https://www.instagram.com/curvaegypt/" target="_blank"><i class="fab fa-instagram"></i> Instagram :Vamos_store22 </a></li>
+                            <li><a href="linkedin" target="_blank"><i class="fab fa-linkedin"></i>  LinkedIn : Vamos_Store</a></li>
                         </ul>
                     </div>
                 </div>
