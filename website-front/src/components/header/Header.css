@@ -6,15 +6,18 @@
 
 .header .container {
     max-width: 1140px;
-    height: 130%;
+    height: 110%;
     margin: auto;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
+    flex-direction: row-reverse;
+
 }
 
-.logo {
+.logo img {
     display: flex;
+
 }
 
 .header .contain {
@@ -35,7 +38,7 @@
 
 .header .icon {
     color: #f4eeff;
-    font-size: 2rem;
+    font-size: 1.5rem;
 }
 
 .header h1,
@@ -43,9 +46,16 @@ a {
     color: #f4eeff;
 }
 
-@media screen and (max-width:800px) {
+.header .container .con {
+    margin-right: 40%;
+    margin-top: -14%;
+    margin-bottom: -10%;
+}
+
+@media screen and (max-width:750px) {
     .con {
         display: block;
+
     }
 
     .contain {
@@ -66,5 +76,5 @@ a {
 }
 
 .contain a {
-    font-size: 1.4rem;
+    font-size: 1.2rem;
 }
