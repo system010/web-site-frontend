@@ -8,10 +8,10 @@ export const Footer = () => {
                 <div class="row ">
                     <div class="col-md-4">
                         <h3>Contact With Vamos</h3>
-                        <li><a title="Home " itemprop="url "><span itemprop="name "><i class="fa fa-phone "></i> Phone: + 01007243297 </span></a></li>
-                        <li><a title="Home " itemprop="url "><span itemprop="name "><i class="fa fa-mobile "></i>  Phone: + 01004563097</span></a></li>
+                        <li><a title="Home " itemprop="url "><span itemprop="name "><i class="fa fa-phone "></i> Phone : +2 01007243297 </span></a></li>
+                        <li><a title="Home " itemprop="url "><span itemprop="name "><i class="fa fa-mobile "></i>  Mobile : +2 01004563097</span></a></li>
                         <li><a title="Home " itemprop="url "><span itemprop="name "><i class="far fa-envelope"></i>  E-Mail:
-                            info@vamos.com</span></a></li>
+                            info.vamos@gmail.com</span></a></li>
 
 
 
@@ -39,7 +39,7 @@ export const Footer = () => {
                         <ul class="list-unstyled ">
                             <li><a href="https://www.facebook.com/CurvaEgypt/" target="_blank"><i class="fab fa-facebook-f"></i>  FaceBook : Vamos_Store</a></li>
                             <li><a href="https://twitter.com/CurvaEgypt " target="_blank"><i class="fab fa-twitter"></i> Twitter : Vamos_7</a></li>
-                            <li><a href="https://www.instagram.com/curvaegypt/" target="_blank"><i class="fab fa-instagram"></i> Instagram :Vamos_store22 </a></li>
+                            <li><a href="https://www.instagram.com/curvaegypt/" target="_blank"><i class="fab fa-instagram"></i> Instagram : Vamos_store22 </a></li>
                             <li><a href="linkedin" target="_blank"><i class="fab fa-linkedin"></i>  LinkedIn : Vamos_Store</a></li>
                         </ul>
                     </div>
