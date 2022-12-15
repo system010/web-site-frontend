@@ -20,7 +20,7 @@ const Header = () => {
 
                     <li className='items'>
                         <a href='/'>
-                            عن فاموس
+                            عن Vamos
                         </a>
                     </li>
                     <li className='itmes'  >
