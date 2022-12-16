@@ -24,23 +24,17 @@ const Header = () => {
                     </li>
                     <li className='items'>
                         <a href='/'>
+
                             About Vamos
                         </a>
                     </li>
                     <li className='items'>
                         <a href='/'>Main Page </a>
                     </li>
-
-
-
-
-
                 </ul>
 
-                <div onClick={handleClick} className='con'>
+                <div onClick={handleClick} className='con' >
                     {click ? (<AiOutlineClose className='icon' />) : (<AiOutlineMenu className='icon' />)}
-
-
                 </div>
 
             </div>
