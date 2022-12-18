@@ -16,7 +16,7 @@ const Header = () => {
 
                 <ul className={click ? 'contain active' : 'contain'}>
                     <li className='items'>
-                        <a className='btn' href='/'>تسجيل الدخول</a>
+                        <a className='btn' href='/'>Log In </a>
                     </li>
                     <li className='itmes'  >
                         <a href='/'>  <BsFillCartFill className='icon' /> </a>
@@ -24,23 +24,17 @@ const Header = () => {
                     </li>
                     <li className='items'>
                         <a href='/'>
-                            عن فاموس
+
+                            About Vamos
                         </a>
                     </li>
                     <li className='items'>
-                        <a href='/'>الصفحه الرئيسيه</a>
+                        <a href='/'>Main Page </a>
                     </li>
-
-
-
-
-
                 </ul>
 
-                <div onClick={handleClick} className='con'>
+                <div onClick={handleClick} className='con' >
                     {click ? (<AiOutlineClose className='icon' />) : (<AiOutlineMenu className='icon' />)}
-
-
                 </div>
 
             </div>
