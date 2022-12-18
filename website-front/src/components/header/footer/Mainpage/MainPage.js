@@ -16,7 +16,7 @@ export const MainPage = () => {
                 <a href='http://www.google.com'>
                 <img src="Premier_League-Logo.wine.png"></img>
                 </a>
-                <h3>الدورى الانجليزى</h3>
+                <h3>الدوري الانجليزى</h3>
             </div> 
            </div>
 
