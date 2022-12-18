@@ -10,7 +10,7 @@ export const MainPage = () => {
                 <a href='http://www.google.com'>
                 <img src="248458.jpg"></img>
                 </a>
-                <h3>الدورى الايطالى</h3>
+                <h3>الدورى الايطالي</h3>
             </div>
             <div className='cart'>
                 <a href='http://www.google.com'>
