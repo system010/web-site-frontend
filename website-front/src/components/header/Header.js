@@ -2,10 +2,7 @@ import { logDOM } from '@testing-library/react'
 import React, { useState } from 'react'
 import { AiOutlineMenu, AiOutlineClose } from 'react-icons/ai'
 import { BsFillCartFill } from 'react-icons/bs'
-
-
 import './Header.css'
-
 const Header = () => {
     const [click, setClick] = useState(false)
     const handleClick = () => setClick(!click)
