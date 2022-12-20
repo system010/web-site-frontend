@@ -11,7 +11,6 @@ function App() {
       <Picture />
       <MainPage />
       <Footer />
-
     </div>
   );
 }
