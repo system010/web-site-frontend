@@ -6,7 +6,7 @@ import "./Seriea.css";
 function Seriea() {
     return (
         <div className="seriea">
-            <h1 className="serieatitle">الدوري الانجليزي</h1>
+            <h1 className="serieatitle">الدوري الايطالي</h1>
             <div className="seriealist">
                 {Seriealist.map((serieaitem, key) => {
                     return (

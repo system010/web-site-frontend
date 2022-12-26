@@ -6,7 +6,7 @@ import "./Laligo.css";
 function Laligo() {
     return (
         <div className="laligo">
-            <h1 className="laligotitle">الدوري الانجليزي</h1>
+            <h1 className="laligotitle">الدوري الاسباني</h1>
             <div className="laligolist">
                 {Laligolist.map((laligoitem, key) => {
                     return (
