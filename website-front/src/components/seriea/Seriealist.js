@@ -6,8 +6,7 @@ import photo5 from "./images/inter-milan1.jpg";
 import photo6 from "./images/napoli.jpg";
 import photo7 from "./images/roma1.jpg";
 import photo8 from "./images/udinesecalcio.jpg";
-// import photo9 from "./images/liverpool1.jpg";
-// import photo10 from "./images/man.jpg";
+
 
 export const Seriealist = [
     {
@@ -50,14 +49,4 @@ export const Seriealist = [
         image: photo8,
         price: 199,
     },
-    // {
-    //     name: "تيشيرت",
-    //     image: photo9,
-    //     price: 199,
-    // },
-    // {
-    //     name: "تيشيرت",
-    //     image: photo10,
-    //     price: 199,
-    // },
 ];
