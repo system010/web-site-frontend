@@ -1,5 +1,6 @@
 import React from 'react'
 import './MainPage.css'
+import { Link } from 'react-router-dom'
 
 export const MainPage = () => {
     return (
@@ -7,45 +8,45 @@ export const MainPage = () => {
 
             <div className='aa'>
                 <div className='cart'>
-                    <a href=''>
+                    <Link to='/seriea'>
                         <img src="248458.jpg"></img>
-                    </a>
+                    </Link>
                     <h3>الدوري الايطالي</h3>
                 </div>
                 <div className='cart'>
-                    <a href='http://www.google.com'>
+                    <Link to='/pre'>
                         <img src="Premier_League-Logo.wine.png"></img>
-                    </a>
+                    </Link>
                     <h3>الدورى الانجليزى</h3>
                 </div>
             </div>
 
             <div className='aa'>
                 <div className='cart'>
-                    <a href='http://www.google.com'>
+                    <Link to='/egypt'>
                         <img src="الدوري المصري الممتاز.png"></img>
-                    </a>
+                    </Link>
                     <h3>الدورى المصرى</h3>
                 </div>
                 <div className='cart'>
-                    <a href='http://www.google.com' >
+                    <Link to='/Laligo' >
                         <img src="الدوري الاسباني.png"></img>
-                    </a>
+                    </Link>
                     <h3>الدورى الاسباني</h3>
                 </div>
             </div>
 
             <div className='aa'>
                 <div className='cart'>
-                    <a href='http://www.google.com'>
+                    <Link to='/fifa'>
                         <img src="الفيفا.png"></img>
-                    </a>
+                    </Link>
                     <h3>المنتخبات</h3>
                 </div>
                 <div className='cart'>
-                    <a href='http://www.google.com'>
+                    <Link to='/ligue1'>
                         <img src="images.png"></img>
-                    </a>
+                    </Link>
                     <h3>الدورى الفرنسى</h3>
                 </div>
             </div>

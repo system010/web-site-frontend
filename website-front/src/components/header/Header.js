@@ -2,6 +2,8 @@ import { logDOM } from '@testing-library/react'
 import React, { useState } from 'react'
 import { AiOutlineMenu, AiOutlineClose } from 'react-icons/ai'
 import { BsFillCartFill } from 'react-icons/bs'
+import { Link } from 'react-router-dom'
+
 import './Header.css'
 const Header = () => {
     const [click, setClick] = useState(false)
@@ -13,7 +15,7 @@ const Header = () => {
 
                 <ul className={click ? 'contain active' : 'contain'}>
                     <li className='items'>
-                        <a className='btn' href='/'>Log In </a>
+                        <Link className='btn' to='/form'>Log In </Link>
                     </li>
                     <li className='itmes'  >
                         <a href='/'>  <BsFillCartFill className='icon' /> </a>

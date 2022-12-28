@@ -30,29 +30,5 @@ export const Egyptlist = [
         image: photo5,
         price: 4.99,
     },
-    {
-        name: "تيشيرت",
-        image: photo6,
-        price: 199,
-    },
-    {
-        name: "تيشيرت",
-        image: photo7,
-        price: 199,
-    },
-    {
-        name: "تيشيرت",
-        image: photo8,
-        price: 199,
-    },
-    {
-        name: "تيشيرت",
-        image: photo9,
-        price: 199,
-    },
-    {
-        name: "تيشيرت",
-        image: photo10,
-        price: 199,
-    },
+
 ];
