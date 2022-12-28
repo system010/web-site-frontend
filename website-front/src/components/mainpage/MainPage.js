@@ -7,7 +7,7 @@ export const MainPage = () => {
 
             <div className='aa'>
                 <div className='cart'>
-                    <a href='http://www.google.com'>
+                    <a href=''>
                         <img src="248458.jpg"></img>
                     </a>
                     <h3>الدوري الايطالي</h3>
