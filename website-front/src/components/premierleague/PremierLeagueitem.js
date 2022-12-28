@@ -6,6 +6,7 @@ function PremierLeagueitem({ image, name, price }) {
             <div style={{ backgroundImage: `url(${image})` }}> </div>
             <h1> {name} </h1>
             <p> ج{price} </p>
+            <button className="button" > buy </button>
         </div>
     );
 }
