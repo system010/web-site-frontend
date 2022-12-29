@@ -10,42 +10,42 @@ import photo8 from "./images/udinesecalcio.jpg";
 
 export const Seriealist = [
     {
-        name: "تيشيرت",
+        name: " تيشيرت اي سي ميلان",
         image: photo1,
-        price: 15.99,
+        price: 199,
     },
     {
-        name: "تيشيرت",
+        name: " تيشيرت اتلانتا",
         image: photo2,
-        price: 11.99,
+        price: 199,
     },
     {
-        name: "تيشيرت",
+        name: " تيشيرت اي سي ميلان 1998",
         image: photo3,
-        price: 256.53,
+        price: 199,
     },
     {
-        name: "تيشيرت",
+        name: "تيشيرت يوفينتوس",
         image: photo4,
-        price: 17.99,
+        price: 199,
     },
     {
-        name: "تيشرت",
+        name: "تيشرت انتر ميلان",
         image: photo5,
-        price: 4.99,
+        price: 199,
     },
     {
-        name: "تيشيرت",
+        name: "تيشيرت نابولي ",
         image: photo6,
         price: 199,
     },
     {
-        name: "تيشيرت",
+        name: "تيشيرت روما",
         image: photo7,
         price: 199,
     },
     {
-        name: "تيشيرت",
+        name: "تيشيرت ساسولي",
         image: photo8,
         price: 199,
     },

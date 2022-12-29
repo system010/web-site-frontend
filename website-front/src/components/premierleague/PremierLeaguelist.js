@@ -11,29 +11,29 @@ import photo10 from "./images/man.jpg";
 
 export const PremierLeaguelist = [
     {
-        name: "تيشيرت",
+        name: "تيشيرت ايفرتون",
         image: photo1,
-        price: 15.99,
+        price: 199,
     },
     {
-        name: "تيشيرت",
+        name: "تيشيرت ارسنال",
         image: photo2,
-        price: 11.99,
+        price: 199,
     },
     {
-        name: "تيشيرت",
+        name: "تيشيرت ",
         image: photo3,
-        price: 256.53,
+        price: 199,
     },
     {
         name: "تيشيرت",
         image: photo4,
-        price: 17.99,
+        price: 199,
     },
     {
         name: "تيشرت",
         image: photo5,
-        price: 4.99,
+        price: 199,
     },
     {
         name: "تيشيرت",
