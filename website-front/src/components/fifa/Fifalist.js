@@ -6,64 +6,60 @@ import photo5 from "./images/fc4.jpg";
 import photo6 from "./images/fc5.jpg";
 import photo7 from "./images/fc6.jpg";
 import photo8 from "./images/fc7.jpg";
-import photo9 from "./images/photo_2022-12-25_20-01-36.jpg";
+
 import photo10 from "./images/photo_2022-12-25_20-02-37.jpg";
 import photo11 from "./images/photo_2022-12-25_20-02-38.jpg";
 
 
 export const Fifalist = [
     {
-        name: "تيشيرت",
+        name: "تيشيرت السعودية",
         image: photo1,
         price: 199,
     },
     {
-        name: "تيشيرت",
+        name: "تيشيرت هولندا",
         image: photo2,
         price: 199,
     },
     {
-        name: "تيشيرت",
+        name: "تيشيرت الارجنتين",
         image: photo3,
         price: 199,
     },
     {
-        name: "تيشيرت",
+        name: "تيشيرت كرواتيا",
         image: photo4,
         price: 199,
     },
     {
-        name: "تيشرت",
+        name: "تيشرت فرنسا",
         image: photo5,
         price: 199,
     },
     {
-        name: "تيشيرت",
+        name: " تيشيرت البرازيل",
         image: photo6,
         price: 199,
     },
     {
-        name: "تيشيرت",
+        name: "تيشيرت المغرب",
         image: photo7,
         price: 119,
     },
     {
-        name: "تيشيرت",
+        name: "تيشيرت مصر",
         image: photo8,
         price: 199,
     },
+
     {
-        name: "تيشيرت",
-        image: photo9,
-        price: 199,
-    },
-    {
-        name: "تيشيرت",
+        name: "تيشيرت البرازيل اسود",
         image: photo10,
         price: 199,
     },
     {
-        name: "تيشيرت",
+        name: "تيشيرت المكسيك",
         image: photo11,
         price: 199,
     },

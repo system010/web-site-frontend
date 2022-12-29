@@ -9,42 +9,42 @@ import photo8 from "./images/satde1.jpg";
 
 export const Ligue1list = [
     {
-        name: "تيشيرت",
+        name: "تيشيرت موناكو",
         image: photo1,
         price: 199,
     },
     {
-        name: "تيشيرت",
+        name: "تيشيرت مارسيليا",
         image: photo2,
         price: 199,
     },
     {
-        name: "تيشيرت",
+        name: " تيشيرت نانت",
         image: photo3,
         price: 199,
     },
     {
-        name: "تيشيرت",
+        name: "تيشيرت ليل",
         image: photo4,
         price: 199,
     },
     {
-        name: "تيشرت",
+        name: "تيشيرت اوليمبك ليون ",
         image: photo5,
         price: 199,
     },
     {
-        name: "تيشيرت",
+        name: " تيشيرت باريس",
         image: photo6,
         price: 199,
     },
     {
-        name: "تيشيرت",
+        name: "تيشيرت لوريان",
         image: photo7,
         price: 199,
     },
     {
-        name: "تيشيرت",
+        name: "تيشيرت ستراسبورج",
         image: photo8,
         price: 199,
     },

@@ -6,27 +6,27 @@ import photo5 from "./images/الاسماعيلي1.jpg";
 
 export const Egyptlist = [
     {
-        name: "تيشيرت",
+        name: "تيشيرت الاهلي",
         image: photo1,
         price: 199,
     },
     {
-        name: "تيشيرت",
+        name: "تيشيرت المصري",
         image: photo2,
         price: 199,
     },
     {
-        name: "تيشيرت",
+        name: "تيشيرت بيراميدز",
         image: photo3,
         price: 199,
     },
     {
-        name: "تيشيرت",
+        name: "تيشيرت الزمالك",
         image: photo4,
         price: 199,
     },
     {
-        name: "تيشرت",
+        name: "تيشرت الاسماعيلي",
         image: photo5,
         price: 199,
     },

@@ -10,6 +10,7 @@ import Ligue1 from './components/ligue1/Ligue1';
 import Laligo from './components/laligo/Laligo'
 import Egypt from './components/egypt/Egypt';
 import Seriea from './components/seriea/Seriea';
+import { Footer } from './components/footer/Footer';
 
 
 const router = createBrowserRouter([
@@ -44,6 +45,10 @@ const router = createBrowserRouter([
     {
         path: "/seriea",
         element: <Seriea />,
+    },
+    {
+        path: "/footer",
+        element: <Footer />,
     },
 ]);
 

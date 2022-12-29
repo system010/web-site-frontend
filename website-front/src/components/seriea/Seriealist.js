@@ -20,7 +20,7 @@ export const Seriealist = [
         price: 199,
     },
     {
-        name: " تيشيرت اي سي ميلان 1998",
+        name: " تيشيرت بولونيا",
         image: photo3,
         price: 199,
     },
@@ -45,7 +45,7 @@ export const Seriealist = [
         price: 199,
     },
     {
-        name: "تيشيرت ساسولي",
+        name: "تيشيرت ساسولو",
         image: photo8,
         price: 199,
     },

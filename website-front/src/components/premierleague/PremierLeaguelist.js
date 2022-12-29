@@ -11,7 +11,7 @@ import photo10 from "./images/man.jpg";
 
 export const PremierLeaguelist = [
     {
-        name: "تيشيرت ايفرتون",
+        name: "تيشيرت ويست هام",
         image: photo1,
         price: 199,
     },
@@ -21,42 +21,42 @@ export const PremierLeaguelist = [
         price: 199,
     },
     {
-        name: "تيشيرت ",
+        name: "تيشيرت استون فيلا",
         image: photo3,
         price: 199,
     },
     {
-        name: "تيشيرت",
+        name: "تيشيرت بورنموث",
         image: photo4,
         price: 199,
     },
     {
-        name: "تيشرت",
+        name: "تيشرت تشيلسي",
         image: photo5,
         price: 199,
     },
     {
-        name: "تيشيرت",
+        name: "تيشيرت لستر سيتي",
         image: photo6,
         price: 199,
     },
     {
-        name: "تيشيرت",
+        name: "تيشيرت نيو كاسل",
         image: photo7,
         price: 199,
     },
     {
-        name: "تيشيرت",
+        name: "تيشيرت مانشستر سيتي",
         image: photo8,
         price: 199,
     },
     {
-        name: "تيشيرت",
+        name: "تيشيرت ليفربول",
         image: photo9,
         price: 199,
     },
     {
-        name: "تيشيرت",
+        name: "تيشيرت مانشستر يونايتد",
         image: photo10,
         price: 199,
     },

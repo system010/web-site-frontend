@@ -11,7 +11,7 @@ const Header = () => {
     return (
         <div className='header' >
             <div className='container '>
-                <img className='logo' src='logo.png' alt='' width='230' height='230' />
+                <img className='logo' src='vamos1.png' alt='' width='230' height='230' />
 
                 <ul className={click ? 'contain active' : 'contain'}>
                     <li className='items'>
@@ -22,7 +22,7 @@ const Header = () => {
 
                     </li>
                     <li className='items'>
-                        <a href='/'>
+                        <a href='/footer'>
 
                             About Vamos
                         </a>

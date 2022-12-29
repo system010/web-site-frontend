@@ -59,16 +59,21 @@
     background-color: white;
 }
 
-.laligoitem h1,
-.laligoitem p {
-    margin-left: 260px;
+.laligoitem h1 {
+    margin-left: 20px;
     color: aliceblue;
+}
+
+.laligoitem p {
+    margin-left: 20px;
+    color: rgb(191, 225, 254);
+    margin-top: 10px;
 }
 
 .button {
     padding: 6px 30px;
     font-size: 16px;
-    margin: 35px;
+    margin: 22px;
     margin-left: 135px;
     color: rgb(255, 255, 255);
     background-image: linear-gradient(45deg, var(--primary-purple) 0%, var(--primary-blue) 100%);

@@ -7,7 +7,7 @@ export const Picture = () => {
                 <img className='pic' src='group-happy-fans-are-cheering-their-team-victory.jpg'></img>
             </div>
             <div className='container'>
-                <h1>Welcome in</h1>
+
                 <h1> Vamos Store</h1>
             </div>
         </div>

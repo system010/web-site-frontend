@@ -11,52 +11,52 @@ import photo10 from "./images/red1.jpg";
 
 export const Laligolist = [
     {
-        name: "تيشيرت",
+        name: "تيشيرت اتيليتك بلباو",
         image: photo1,
         price: 199,
     },
     {
-        name: "تيشيرت",
+        name: " تيشيرت اشبيليه",
         image: photo2,
         price: 199,
     },
     {
-        name: "تيشيرت",
+        name: "تيشيرت اتليتكو مدريد",
         image: photo3,
         price: 199,
     },
     {
-        name: "تيشيرت",
+        name: " تيشيرت برشلونة",
         image: photo4,
         price: 199,
     },
     {
-        name: "تيشرت",
+        name: "تيشيرت بلد الوليد",
         image: photo5,
         price: 199,
     },
     {
-        name: "تيشيرت",
+        name: " تيشيرت قادش",
         image: photo6,
         price: 199,
     },
     {
-        name: "تيشيرت",
+        name: "تيشيرت ليفانتي",
         image: photo7,
         price: 199,
     },
     {
-        name: "تيشيرت",
+        name: "تيشيرت ريال مايوركا",
         image: photo8,
         price: 199,
     },
     {
-        name: "تيشيرت",
+        name: "تيشيرت ريال مدريد",
         image: photo9,
         price: 199,
     },
     {
-        name: "تيشيرت",
+        name: "تيشيرت اسبانيول",
         image: photo10,
         price: 199,
     },
