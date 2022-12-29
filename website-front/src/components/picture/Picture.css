@@ -32,12 +32,12 @@
     background: linear-gradient(to right, #00ffa8, #2fa5d9, #d81f9d);
     font-weight: 800;
     font-size: 80px;
-    width: 447px;
+    width: 365px;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     overflow: hidden;
     animation: shring-animation 2.2s steps(40, end) 2s forwards, blink .5s step-end infinite alternate;
-    margin-left: 53px;
+    margin-left: 0px;
 
 }
 

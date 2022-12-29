@@ -7,11 +7,13 @@ import { Picture } from './components/picture/Picture';
 
 function App() {
   return (
-    <div>
+    <div className='co'>
       <Header />
       <Picture />
       <MainPage />
-      <Footer />
+      <div className='mm'>
+        <Footer />
+      </div>
     </div>
   );
 }

@@ -15,7 +15,7 @@ export const MainPage = () => {
                 </div>
                 <div className='cart'>
                     <Link to='/pre'>
-                        <img src="Premier_League-Logo.wine.png"></img>
+                        <img src="prepre.png"></img>
                     </Link>
                     <h3>الدورى الانجليزى</h3>
                 </div>
