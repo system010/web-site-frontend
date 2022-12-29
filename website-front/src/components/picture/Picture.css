@@ -37,6 +37,7 @@
     -webkit-text-fill-color: transparent;
     overflow: hidden;
     animation: shring-animation 2.2s steps(40, end) 2s forwards, blink .5s step-end infinite alternate;
+    margin-left: 53px;
 
 }
 

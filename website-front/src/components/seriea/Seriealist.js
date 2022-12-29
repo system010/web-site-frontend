@@ -40,9 +40,9 @@ export const Seriealist = [
         price: 199,
     },
     {
-        name: "تيشيرت روما",
+        name: "تيشيرت وشورت روما",
         image: photo7,
-        price: 199,
+        price: 299,
     },
     {
         name: "تيشيرت ساسولو",
